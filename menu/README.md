@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# arenero_tw
-=======
-# Arenero Menu
->>>>>>> e823e8c (Primer commit)
+Nombre: Christian Flores Ovando
+Matrícula: 202335527
+Materia: Tecnologías Web
+Periodo: Otoño 2025
